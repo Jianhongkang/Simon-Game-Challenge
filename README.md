@@ -1,5 +1,5 @@
 # Simon-Game-Challenge
-
+![image](https://user-images.githubusercontent.com/110987982/212871191-ba88fdf4-975c-4d2d-a8bc-20e7080b456a.png)
 * Simon Game developed with JavaScript, HTML and CSS
 * How to play the game:
 	- Press any keyboard key to start the game.
